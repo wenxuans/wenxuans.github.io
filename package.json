@@ -1,0 +1,11 @@
+{
+
+    "name": "hackmatch",
+    "version": "1.0.0",
+    "description": "Matches team members for Hackathons",
+    "scripts": {
+	"start": "node src/index.js"
+    };
+    "author": "The best Hacakthon team ever"
+
+}

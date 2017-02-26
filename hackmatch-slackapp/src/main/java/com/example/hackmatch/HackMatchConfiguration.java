@@ -7,4 +7,5 @@ import javax.validation.constraints.*;
 
 public class HackMatchConfiguration extends Configuration {
     // TODO: implement service configuration
+    
 }

@@ -19,7 +19,7 @@ public class HelloWorldResource {
 	
     }
     @POST
-    public Response sayHello() {
+    public Greeting sayHello() {
 	return new Greeting();
 	//return Response.ok("HI").build();
     }

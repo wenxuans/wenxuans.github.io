@@ -1,6 +1,10 @@
+package com.example.hackmatch;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Greeting {
 
-   @JsonPrpoerty("greeting")
+   @JsonProperty("greeting")
    public String greeting = "hi";
 
 }

@@ -7,10 +7,6 @@ import io.dropwizard.setup.Environment;
 public class HackMatchApplication extends Application<HackMatchConfiguration> {
 
     public static void main(final String[] args) throws Exception {
-        public static void main(String[] args) throws Exception {
-            if (args.length == 0) {
-                args = new String[] {"server", "hello-world.yml"};
-            }
 	new HackMatchApplication().run(args);
     }
 

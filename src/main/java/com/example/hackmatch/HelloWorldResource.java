@@ -12,7 +12,7 @@ import javax.ws.rs.Consumes;
 
 @Path("/hello")
 @Produces(MediaType.APPLICATION_JSON)
-@Consumes(MediaType.APPLICATION_JSON)
+@Consumes(MediaType.APPLICATION_FORM_URLENCODED)
 public class HelloWorldResource {
 
     public HelloWorldResource() {

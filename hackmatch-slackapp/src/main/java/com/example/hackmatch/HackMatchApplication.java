@@ -26,7 +26,6 @@ public class HackMatchApplication extends Application<HackMatchConfiguration> {
                     final Environment environment) {
         final HelloWorldResource resource = new HelloWorldResource ();
 	environment.jersey().register(resource);
-    }
-    
+   } 
     
 }

@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Matches team members for Hackathons",
     "scripts": {
-	"start": "node src/index.js"
+	"start": "node hackmatch-slackapp/src/main/java/com/example/HackMatchApplication.java"
     };
     "author": "The best Hacakthon team ever"
 

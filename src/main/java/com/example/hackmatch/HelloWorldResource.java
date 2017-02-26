@@ -17,7 +17,7 @@ public class HelloWorldResource {
     public HelloWorldResource() {
 	
     }
-    @GET
+    @POST
     public Greeting sayHello() {
 	return new Greeting();
     }

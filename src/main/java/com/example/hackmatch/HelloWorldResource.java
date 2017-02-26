@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.Consumes;
 
 @Path("/hello")
-@Produces(MediaType.TEXT_HTML)
+@Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
 public class HelloWorldResource {
 

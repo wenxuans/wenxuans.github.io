@@ -7,6 +7,8 @@ import com.example.hackmatch.HelloWorldResource;
 
 public class HackMatchApplication extends Application<HackMatchConfiguration> {
 
+    
+
     public static void main(final String[] args) throws Exception {
 	new HackMatchApplication().run(args);
     }

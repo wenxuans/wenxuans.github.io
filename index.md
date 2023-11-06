@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a 6th year Ph.D. student at the University of Illinois, Urbana-Champaign, advised by Dr. Brian Bailey. Previously, I received a BS in Computer Science and a BA in Cognitive Science at the University at Buffalo, SUNY.
 
-## Research Interests
+<!-- ## Research Interests -->
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research aims to understand, design, and build systems and methods that support collaboration and learning in teams.} By bringing together knowledge and techniques from computer science, the learning sciences, psychology, and other fields, I work towards designing systems that integrate data-driven techniques with human decision-making to enhance feedback in collaborative settings. More broadly, I am interested in how the ways that we work together will shape the ways that we evaluate each other.
 
-## News
+## Recent News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Our paper about the value of activity traces for peer evaluations in teams won a Best Paper award at CSCW 2023!
+- **[Sep. 2023]** We were awarded a $10000 grant from the GATE (Grants for Advancement of Teaching in Engineering) Program at UIUC!
+<!-- - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
+<!-- - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

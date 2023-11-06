@@ -104,7 +104,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 1rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -230,18 +230,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#0066c7;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#0066c7;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#0066c7;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -270,7 +270,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:rgb(0, 0, 0);
   text-decoration:none;
 }
 
@@ -356,7 +356,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -432,7 +432,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:600px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;

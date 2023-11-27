@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a 6th year Ph.D. student at the University of Illinois, Urbana-Champaign, advised by Dr. Brian Bailey. Previously, I received a BS in Computer Science and a BA in Cognitive Science at the University at Buffalo, SUNY.
+Hi! I am a Ph.D. student at the University of Illinois, Urbana-Champaign, advised by Dr. Brian Bailey. Previously, I received a BS in Computer Science and a BA in Cognitive Science at the University at Buffalo, SUNY.
 
 <!-- ## Research Interests -->
 

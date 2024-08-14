@@ -10,7 +10,7 @@ Hi! I am a Ph.D. student at the University of Illinois, Urbana-Champaign, advise
 
 My research aims to understand, design, and build systems and methods that support collaboration and learning in teams. By bringing together knowledge and techniques from computer science, the learning sciences, psychology, and other fields, I work towards designing systems that integrate data-driven techniques with human decision-making to enhance feedback in collaborative settings. More broadly, I am interested in how the ways that we work together will shape the ways that we evaluate each other.
 
-** I am on the job market this year! ** 
+**I am on the job market this year!** 
 
 ## Recent News
 - **[May 2024]** Our proposed project "“Enabling the Learning and Practice of Effective Teamwork Behaviors using Cross-Tool Log Data” was a recipient of the SIIP Grant from the Grainger College of Engineering!
